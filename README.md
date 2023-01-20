@@ -8,5 +8,5 @@
 
 
 - 👨‍🎓 I’m currently studying CompSci @ Yeshiva University
-- 🔭 Check out my(https://github.com/saarel "personal Github")
+- 🔭 Check out my [personal Github](https://github.com/saarel)
 
